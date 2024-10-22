@@ -1,2 +1,2 @@
 import botutil
-botutil.start_game(0,1)
+botutil.start_game(0,2,True)
